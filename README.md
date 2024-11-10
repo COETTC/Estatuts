@@ -1,5 +1,5 @@
 Documentos base.
-Objetivos de los estatutos
+OBJETIUS I PRIORITATS dels Estatuts
 1- Simplicidad
 2- Democráticos
 3- Elecciones:
