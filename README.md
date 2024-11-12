@@ -24,7 +24,7 @@ La mesa electoral ho publica al taulell d'anuncis
 
 4- Prioritat la professió.<br>
 
-####TELEMÀTICA"
+#### TELEMÀTICA
 
 5- **Taulell d'anuncis virtual** tipus "telegram". El modera el Degà ajudat per els membres de la Junta i comptant amb els consells dels membres. <br>
 El degà pot sotmetre a votació vinculant punts d'interés per la professió, excloent esports, religió, política.
