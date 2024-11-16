@@ -16,7 +16,7 @@ header-includes:
 El Col·legi Oficial d'Enginyers Tècnics de Telecomunicació de Catalunya, COETTC, és una corporació de dret públic de caràcter professional.
 
 Gaudeix de personalitat jurídica pròpia i de plena capacitat d'obrar per al compliment de les seves finalitats.
-El COETTC és constitueix a partir de la segregació del COITT en aplicació del art. 79 del Reial Decret 4/2018. El 4 d'abril la Junta Directiva de la Demarcació va convocar Junta General Extraordinaria amb la segregació com a únic punt de l'ordre del día, a 23 d'abril la participació va ser del 56% superanse el llindar mínim del 50% per tenir una votació válida, i van votar favorablemen el 91% dels participants. Per tant la votació va ser valida i favorable. 
+El COETTC es constitueix a partir de la segregació del COITT en aplicació del art. 79 del Reial Decret 4/2018. El 4 d'abril la Junta Directiva de la Demarcació va convocar Junta General Extraordinaria amb la segregació com a únic punt de l'ordre del día, a 23 d'abril la participació va ser del 56% superanse el llindar mínim del 50% per tenir una votació válida, i van votar favorablemen el 91% dels participants. Per tant la votació va ser valida i favorable. 
 l'acta i la proposta de segregació es va enviar al COITT el 8/5/2024, per la seva tramitació, transcorreguts 3 mesos el 8/9/2024, sense resposta per part del COITT, el silenci es positiu. 
 
 ### Article 2. Normativa aplicable
@@ -693,7 +693,7 @@ En cas de vot electoral telemàtic es farà conforme estigui previst a la plataf
 
 TODO: números no encaixen
 
-Certificat per vot electoral, amb identificació de persona que vota. La papereta i sobres de votació els facilitarà el Col·legi a qui ho sol·liciti fins 1 setmana abans de la votació, s'haurà d'introduir en un sobre tancat que, a la vegada, s'introduirà en un altre sobre on s'expressarà el destí electoral.
+Certificat per vot electoral, amb identificació de persona que vota. La papereta i sobres de votació els facilitarà el Col·legi a qui ho sol·liciti fins 1 setmana abans de la votació, s'haurà d'introduir en un sobre tancat que, a la vegada, s'introduirà en un altre sobre on s'expressarà el sentit del vot.
 
 Els sobres seran custodiats per la Mesa que els lliurarà a la Mesa Electoral el dia de les votacions. Un cop finalitzada la votació, es procedirà a obrir els sobres rebuts anticipadament. Abans d'introduir el sobre amb la papereta de votació a la urna corresponent, es procedirà a les comprovacions establertes en aquest article.
 
