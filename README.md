@@ -3,6 +3,7 @@
 
 ## Documents base. OBJETIUS I PRIORITATS dels Estatuts
 
+0. TRANSPARÈNCIA
 1. Simplicitat
 2. Democràtics
 3. Eleccions:
