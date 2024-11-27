@@ -6,7 +6,7 @@
 0. TRANSPARÈNCIA
 1. Simplicitat
 2. Democràtics
-3. Eleccions:
+3. Eleccions: REPRESENTACIÓ MÀXIMA.
     - Personals. Llista oberta.
     - Dia fix al calendari. 1er dijous de Novembre.
     - Els càrrecs son fruit d'un procès electoral.
