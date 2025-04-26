@@ -197,7 +197,7 @@ f)  Qualsevol altra activitat privada en interès dels col·legiats i la societa
   
     c)  Vigilància facultativa de la feina encarregada.
   
-    d)  Mantenir privada l'Assemblea General.
+    d)  Mantenir el respecte degut en i a l'Assemblea General.
   
     e)  Complir les normes col·legials, i els acords dels seus òrgans de govern.
   
@@ -273,19 +273,19 @@ Els òrgans de govern del Col·legi són l'Assemblea General i el Consell de Gov
 
 #### *Capítol 1* *L'Assemblea General*
 
-Disposicions generals
+### Article 21. Disposicions generals
 
-1. L'Assemblea General és l'òrgan sobirà del Col·legi.
+1. L'Assemblea General és l'òrgan sobirà del Col·legi i seran mixtes, telemàtiques i presencials.
 
-2. Formen part de l'Assemblea General tots els col·legiats, els qual hi podran participar amb veu i vot. El vot es podrà delegar en un altre col·legiat; cap col·legiat, però, no podrà obtenir més de tres delegacions.
+2. Formen part de l'Assemblea General tots els col·legiats, els qual hi podran participar amb veu i vot. El vot es podrà delegar en un altre col·legiat; cap col·legiat, però, no podrà obtenir més de dos delegacions.
 
 3. Les assemblees generals poden ser ordinàries o extraordinàries.
 
-4. L'Assemblea General quedarà vàlidament constituïda independentment del nombre d'assistents, llevat el cas de què s'exigeixi un quòrum reforçat.
+4. L'Assemblea General quedarà vàlidament constituïda en 1era convocatoria amb un mínim de participants del 25% dels membres. En segona convocatoria serà suficient amb majoria simple. Entre la 1era i la 2na convocatoria han de passar com a mínim una setmana. 
 
 5. Els acord de l'Assemblea General es prenen per majoria simple dels vots dels presents o representats, llevat que estatutàriament o legalment exigeixi una majoria reforçada.
 
-6. Cada col·legiat té un dret de vot. Els LLEE valen per 2.
+6. Cada col·legiat té un dret de vot, amb l'excepció dels LLEE(Lliures Exercents) que disposen de doble dret de vot.
 
 7. En cas d'empat, decideix el vot de la presidència de la sessió.
 
@@ -361,13 +361,13 @@ caràcter d'Assemblea extraordinària.
 
 ### Article 26. Convocatòria de l'Assemblea
 
-1. El Consell de Govern tindrà la informació de les assemblees amb una antelació mínima d'un mes.
+1. El Consell de Govern tindrà la informació de les assemblees com a màxim l'u de febrer.
 
 2. Les Assemblees extraordinària a sol·licitud dels col·legiats s'haurà de celebrar dins els dos mesos següents a l'entrada de la sol·licitud.
 
 3. L'acord de convocatòria assenyalarà l'ordre del dia, dia i hora de celebració.
 
-4. L'acord de convocatòria es publicarà en el taulell d'anuncis de la seu del Col·legi i en la seva pàgina web corporativa. Així mateix es comunicarà individualment a tots els col·legiats per escrit o mitjançant correu electrònic.
+4. L'acord de convocatòria es publicarà en el taulell d'anuncis de la seu del Col·legi i en la plataforma telemàtica amb tota la documentació a aprovar. Així mateix es comunicarà individualment a tots els col·legiats per escrit o mitjançant correu electrònic.
 
 La presencial es celebrarà a la seu u on decideixi el Consell de Govern. Telemàticament mitjançant una plataforma on estarà tota la informació necessària. A la plataforma estarà la informació de les assembles celebrades anteriorment. També es proveirà accés als vídeos de les mateixes.
 
@@ -649,7 +649,7 @@ Es poden presentar candidats fins 1 setmana abans de la votació.
 
 ### Article 50. Mesa Electoral
 
-1. La Mesa Electoral es formarà amb tres membres que formin part del cens electoral i que no formin part de cap candidatura.
+1. La Mesa Electoral es formarà amb tres membres que formin part del cens electoral i que no formin part de cap candidatura, ni estar directament relacionats.
 
 2. El secretari per sorteig anomena a 3 col·legiats i 2 substituts. Entre els membres escolliran al president de la Mesa. El secretari tutelarà el funcionament de la mesa.
 
@@ -687,25 +687,21 @@ El COETTC facilitarà als candidats l'enviament de mails als col·legiats amb un
 
 ### Article 53. Votació
 
-En cas de vot electoral telemàtic es farà conforme estigui previst a la plataforma.
+Les votacions es faran Mixtes, telemàticament i presencialment.
 
-1. La votació es farà presencialment introduint la papereta en les urnes custodiades per la Mesa Electoral. No obstant, es podrà emetre el vot anticipadament.
+1. La votació presencial es farà introduint la papereta en les urnes custodiades per la Mesa Electoral. No obstant, es podrà emetre el vot anticipadament.
 
 2. No es permet la delegació de vot.
 
-3. El vot es pot anticipar fent arribar la papereta de votació fins començar la votació mitjançant lliurament a la seu del Col·legi o tramesa per correus.
+3. El vot es pot anticipar fent arribar la papereta de votació fins començar la votació mitjançant lliurament a la seu del Col·legi o tramesa per correu certificat per vot electoral, amb identificació de persona que vota. La papereta i els sobres de votació els facilitarà el Col·legi a qui ho sol·liciti fins 1 setmana abans de la votació, s'haurà d'introduir en un sobre tancat que, a la vegada, s'introduirà en un altre sobre on s'expressarà el sentit del vot. La garantia de custodia dels sobres serà responsabilitat de la Mesa Electoral fins el dia de les votacions. Un cop finalitzada la votació, es procedirà a obrir els sobres rebuts anticipadament. Abans d'introduir el sobre amb la papereta de votació a la urna corresponent, es procedirà a les comprovacions establertes en aquest article. No es consideraran vàlids aquells vots que no compleixin amb els requisits indicats en aquest apartat ni aquells lliurats fora de termini, ni aquells emesos anticipadament quan l'elector hagi votat presencialment.
 
-TODO: números no encaixen
+4. El vot telemàtic, s'emetrà seguint les instruccions derivades de la plataforma de votació.
 
-Certificat per vot electoral, amb identificació de persona que vota. La papereta i sobres de votació els facilitarà el Col·legi a qui ho sol·liciti fins 1 setmana abans de la votació, s'haurà d'introduir en un sobre tancat que, a la vegada, s'introduirà en un altre sobre on s'expressarà el sentit del vot.
-
-Els sobres seran custodiats per la Mesa que els lliurarà a la Mesa Electoral el dia de les votacions. Un cop finalitzada la votació, es procedirà a obrir els sobres rebuts anticipadament. Abans d'introduir el sobre amb la papereta de votació a la urna corresponent, es procedirà a les comprovacions establertes en aquest article.
-
-No es consideraran vàlids aquells vots que no compleixin amb els requisits indicats en aquest apartat ni aquells lliurats fora de termini, ni aquells emesos anticipadament quan l'elector hagi votat presencialment.
+5. Cada candidatura podrà designar un representant davant la Mesa Electoral per tal de presenciar les operacions electorals de votació i formular, si s'escau, les observacions i reclamacions pertinents. 
 
 6. Seran nuls tots els vots que no s'emetin en papereta oficial i que continguin expressions diferents a les designacions dels noms i càrrecs dels candidats proposats.
 
-7. Un cop finalitzat el període de votació, es durà a terme l'escrutini per la Mesa Electoral i amb la presència dels candidats. L'acte serà públic pels col·legiats.
+7. Un cop finalitzat el període de votació, es durà a terme l'escrutini per la Mesa Electoral i amb la presència dels represnetants dels candidats. L'acte serà públic pels col·legiats.
 
 ### Article 54. Proclamació
 
@@ -787,7 +783,7 @@ Paral·lelament el COETTC adopta un Fòrum privat per resoldre dubtes, i totes l
 
 El modera el degà ajudat per els membres del Consell i comptant amb els consells dels membres.
 
-El degà pot sotmetre a votació vinculant punts d'interès per la professió, excloent esports, religió, política.
+El degà pot sotmetre a votació vinculant punts d'interès per la professió, La participació mínima ha de ser d'un 25% dels membres, el acord serà per majoria simple. 
 
 Només hi hauran col·legiats.
 
@@ -887,7 +883,7 @@ n) En tot el que no regula aquest article s'han d'aplicar les Lleis 39/2015, d'1
 
     f) La vulneració del secret professional amb perjudici per a tercers.
 
-    g) La realització d'actuacions professionals ocasionant un perjudici als interessos dels consumidors i usuaris o a la professió de geòleg.
+    g) La realització d'actuacions professionals ocasionant un perjudici als interessos dels consumidors i usuaris o a la professió d'Enginyer Tècnic de Telecomunicació.
 
 ### Article 65. Sancions
 
