@@ -29,3 +29,11 @@
     - Si un 15% de col·legiats demana votar quelcom, en màxim 15 dies des de la validació per part del secretari.
 7. ASSEMBLEAS GENERALS, es faran telemàticament i presencialment a la seu. Telemàticament mitjançant una plataforma.
 8. VOT, personal o delegat amb un màxim de 2. El vot del LLEE val doble.
+
+## ERRORS corregits. claretat i millores
+9. terme assemblea reservat als membres
+10. terme consell reservat a govern
+11. secretari custodia bens telemàtics
+12. comissions de treball
+13. potenciar telemàtica vers presencial
+14. fer portada i índex

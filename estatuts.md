@@ -9,7 +9,137 @@ header-includes:
   - \usepackage[none]{hyphenat}
 ---
 
+# ESTATUTS
+<br>
+<br>
+<br>
+<br>
+
+## Col·legi Oficial d'Enginyers Tècnics de Telecomunicació de Catalunya
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+*Aprovats per l'Assemblea General Extraordinària el 27 d'Abril de 2025*
+*(Inclou modificacions fins a 27 d'Abril de 2025) - [Versió 3]*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+	(Nota: Aquests Estatuts es gestionen i la seva versió digital rastrejada oficial es troba allotjada al repositori de GitHub del COETTC, on es pot consultar l'historial de canvis: [https://github.com/COETTC/Estatuts](https://github.com/COETTC/Estatuts))
+
+---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+- [ESTATUTS](#estatuts)
+  - [Col·legi Oficial d'Enginyers Tècnics de Telecomunicació de Catalunya](#collegi-oficial-denginyers-tècnics-de-telecomunicació-de-catalunya)
+  - [Títol I. El Col·legi](#títol-i-el-collegi)
+    - [Article 1. Denominació i naturalesa jurídica](#article-1-denominació-i-naturalesa-jurídica)
+    - [Article 2. Normativa aplicable](#article-2-normativa-aplicable)
+    - [Article 3. Àmbit territorial](#article-3-àmbit-territorial)
+    - [Article 4. Domicili I Constitució](#article-4-domicili-i-constitució)
+    - [Article 5. Llengua](#article-5-llengua)
+    - [Article 6. Finalitats](#article-6-finalitats)
+    - [Article 7. Funcions públiques](#article-7-funcions-públiques)
+    - [Article 8. Activitats associatives](#article-8-activitats-associatives)
+  - [Títol II. Els col·legiats](#títol-ii-els-collegiats)
+    - [Article 9. Col·legiació](#article-9-collegiació)
+    - [Article 10. Requisits de col·legiació](#article-10-requisits-de-collegiació)
+    - [Article 12. Pèrdua de la condició de col·legiat](#article-12-pèrdua-de-la-condició-de-collegiat)
+    - [Article 13. Drets dels col·legiats](#article-13-drets-dels-collegiats)
+    - [Article 14. Deures dels col·legiats](#article-14-deures-dels-collegiats)
+    - [Article 15. Competències, Facultats i Atribucions.](#article-15-competències-facultats-i-atribucions)
+  - [Títol III. Altres membres del Col·legi](#títol-iii-altres-membres-del-collegi)
+    - [Article 16. Societats professionals](#article-16-societats-professionals)
+    - [Article 17. Col·legiats d'honor](#article-17-collegiats-dhonor)
+    - [Article 18. Associats](#article-18-associats)
+    - [Article 19. Col·laboradors](#article-19-collaboradors)
+  - [Títol IV. Òrgans del Col·legi](#títol-iv-òrgans-del-collegi)
+    - [Article 20. Òrgans de Govern](#article-20-òrgans-de-govern)
+      - [*Capítol 1* *L'Assemblea General*](#capítol-1-lassemblea-general)
+    - [Article 21. Disposicions generals](#article-21-disposicions-generals)
+    - [Article 22. Funcions de l'Assemblea General](#article-22-funcions-de-lassemblea-general)
+    - [Article 23. Assemblees ordinàries](#article-23-assemblees-ordinàries)
+    - [Article 24. Assembles extraordinàries](#article-24-assembles-extraordinàries)
+    - [Article 25. Forma de celebració de les assemblees](#article-25-forma-de-celebració-de-les-assemblees)
+    - [Article 26. Convocatòria de l'Assemblea](#article-26-convocatòria-de-lassemblea)
+    - [Article 27. Celebració](#article-27-celebració)
+    - [Article 28. Acta de les assemblees](#article-28-acta-de-les-assemblees)
+      - [Capítol 2. El Consell de Govern](#capítol-2-el-consell-de-govern)
+    - [Article 29. Disposicions generals](#article-29-disposicions-generals)
+    - [Article 30. Requisits dels membres del Consell de Govern](#article-30-requisits-dels-membres-del-consell-de-govern)
+    - [Article 31. Funcions del Consell de Govern](#article-31-funcions-del-consell-de-govern)
+    - [Article 32. Formes de reunió del Consell de Govern](#article-32-formes-de-reunió-del-consell-de-govern)
+    - [Article 33. Convocatòria](#article-33-convocatòria)
+    - [Article 34. Assistència](#article-34-assistència)
+    - [Article 35. Quòrums i acords](#article-35-quòrums-i-acords)
+    - [Article 36. Sessions](#article-36-sessions)
+    - [Article 37. Acta de les sessions del Consell de Govern](#article-37-acta-de-les-sessions-del-consell-de-govern)
+    - [Article 38. Presidència](#article-38-presidència)
+    - [Article 39. Vicepresidència](#article-39-vicepresidència)
+    - [Article 40. Secretaria](#article-40-secretaria)
+    - [Article 41. Tresoreria](#article-41-tresoreria)
+    - [Article 42. Vocalies](#article-42-vocalies)
+    - [Article 43. Cessament](#article-43-cessament)
+    - [Article 44. Gerència](#article-44-gerència)
+    - [Article 45. Moció de censura](#article-45-moció-de-censura)
+    - [Article 46. Comissions de Treball](#article-46-comissions-de-treball)
+  - [Títol V. Règim electoral](#títol-v-règim-electoral)
+    - [Article 47. Sistema electiu](#article-47-sistema-electiu)
+    - [Article 48. Condicions per ser elegit](#article-48-condicions-per-ser-elegit)
+    - [Article 49. Convocatòria](#article-49-convocatòria)
+    - [Article 50. Candidatures](#article-50-candidatures)
+    - [Article 51. Mesa Electoral](#article-51-mesa-electoral)
+    - [Article 52. Proclamació de candidatures](#article-52-proclamació-de-candidatures)
+    - [Article 53. Campanya electoral.](#article-53-campanya-electoral)
+    - [Article 54. Votació](#article-54-votació)
+    - [Article 55. Proclamació](#article-55-proclamació)
+    - [Article 56. Pressa de possessió](#article-56-pressa-de-possessió)
+  - [Títol VI. Finestreta única](#títol-vi-finestreta-única)
+    - [Article 57. Finestreta única](#article-57-finestreta-única)
+  - [Títol VII. Règim econòmic](#títol-vii-règim-econòmic)
+    - [Article 58. Recursos ordinaris](#article-58-recursos-ordinaris)
+    - [Article 59. Recursos extraordinaris](#article-59-recursos-extraordinaris)
+    - [Article 60. Pressupost](#article-60-pressupost)
+    - [Article 61. Dret d'informació econòmica](#article-61-dret-dinformació-econòmica)
+    - [Article 62. Taulell d'anuncis](#article-62-taulell-danuncis)
+    - [Article 63. Responsabilitat i potestat disciplinària](#article-63-responsabilitat-i-potestat-disciplinària)
+    - [Article 64. Procediment disciplinari](#article-64-procediment-disciplinari)
+    - [Article 65. Infraccions](#article-65-infraccions)
+    - [Article 66. Sancions](#article-66-sancions)
+    - [Article 67. Graduació de les sancions](#article-67-graduació-de-les-sancions)
+    - [Article 68. Extinció de la responsabilitat disciplinària](#article-68-extinció-de-la-responsabilitat-disciplinària)
+  - [Títol IX. Modificació d'Estatuts i reglaments corporatius](#títol-ix-modificació-destatuts-i-reglaments-corporatius)
+    - [Article 69. Modificació dels Estatuts col·legials](#article-69-modificació-dels-estatuts-collegials)
+    - [Article 70. Reglaments corporatius](#article-70-reglaments-corporatius)
+  - [Títol X. Fusió i segregació](#títol-x-fusió-i-segregació)
+    - [Article 71. Fusió del Col·legi amb altres col·legis d'Eng. Tèc. Telec. de diferent àmbit territorial](#article-71-fusió-del-collegi-amb-altres-collegis-deng-tèc-telec-de-diferent-àmbit-territorial)
+    - [Article 72. Segregació del Col·legi](#article-72-segregació-del-collegi)
+  - [Títol XI. Dissolució i liquidació](#títol-xi-dissolució-i-liquidació)
+    - [Article 73. Causes de dissolució del Col·legi](#article-73-causes-de-dissolució-del-collegi)
+    - [Article 74. Procediment de dissolució del Col·legi](#article-74-procediment-de-dissolució-del-collegi)
+  - [Títol XII. Règim jurídic dels actes col·legials i la seva impugnació](#títol-xii-règim-jurídic-dels-actes-collegials-i-la-seva-impugnació)
+    - [Article 75. Règim jurídic dels actes col·legials](#article-75-règim-jurídic-dels-actes-collegials)
+    - [Article 76. Notificació dels actes](#article-76-notificació-dels-actes)
+    - [Article 77. Recursos contra actes i acords](#article-77-recursos-contra-actes-i-acords)
+
+___
+
+
 ## Títol I. El Col·legi
+
 
 ### Article 1. Denominació i naturalesa jurídica
 
@@ -557,7 +687,7 @@ c)  Realitzar una tasca de col·laboració, suport i assessorament constant al d
 
     j)  Guardar copia mensualment dels debats als grups de Telegram.
 
-    k)  Guardar las propietats telemàtiques del col·legi.
+    k)  Custodiar les credencials, claus i secrets (d'accés) relacionades amb els serveis telemàtics generals del COETTC.
 
 2. En cas de la seva absència, serà substituïda per un altre membre del Consell de Govern per decisió majoritària dels components del Consell de Govern.
 
@@ -621,19 +751,28 @@ El Consell de Govern podrà contractar un gerent per dirigir la gestió dels ser
 
 5. La constitució vàlida de l'Assemblea General Extraordinària requerirà la concurrència personal de més de la meitat del cens col·legial. I el vot serà sempre personal, directe i secret. Per tal que la moció de censura prosperi, serà necessari el vot positiu de dues terceres parts dels concurrents.
 
+### Article 46. Comissions de Treball
+
+1. El Consell de Govern podrà establir comissions de treball permanents o temporals per desenvolupar activitats o estudiar temes concrets relatius a les finalitats i funcions del Col·legi.
+
+2. Les comissions previstes inicialment inclouen, entre altres: la Comissió Web, la Comissió de Secretaria Tècnica, i la Comissió de Formació. El Consell de Govern podrà crear, modificar o dissoldre altres comissions segons les necessitats i l'interès col·legial.
+
+3. Cada comissió estarà presidida per un membre del Consell de Govern, designat pel mateix Consell, el qual vetllarà pel seu bon funcionament, la consecució dels seus objectius i la coordinació amb l'òrgan de govern.
+
+
 ## Títol V. Règim electoral
 
-### Article 46. Sistema electiu
+### Article 47. Sistema electiu
 
 Els membres del Consell de Govern seran escollits mitjançant sufragi universal, lliure, directe i secret de tots els col·legiats.
 
 El cens electoral serà el del dia de l'acord de convocatòria.
 
-### Article 47. Condicions per ser elegit
+### Article 48. Condicions per ser elegit
 
 Tots els col·legiats que formin part del cens electoral podran ser elegits per cobrir els càrrecs del Consell de Govern sempre que reuneixin els requisits per a ser membre del Consell.
 
-### Article 48. Convocatòria
+### Article 49. Convocatòria
 
 Les eleccions és celebraran per blocs o rondes cada 2 anys el 1er dijous de Novembre.
 
@@ -641,13 +780,13 @@ El més aviat possible s'adoptarà una plataforma telemàtica d'eleccions, allí
 
 Entre tant el secretari elaborarà i penjarà al taulell d'anuncis el llistat del col·legiats amb dret a vot a partir del 1er dijous de setembre.
 
-### Article 49. Candidatures
+### Article 50. Candidatures
 
 Els candidats presentaran la seva candidatura a partir del 2n dijous de setembre.
 
 Es poden presentar candidats fins 1 setmana abans de la votació.
 
-### Article 50. Mesa Electoral
+### Article 51. Mesa Electoral
 
 1. La Mesa Electoral es formarà amb tres membres que formin part del cens electoral i que no formin part de cap candidatura, ni estar directament relacionats.
 
@@ -663,7 +802,7 @@ Es poden presentar candidats fins 1 setmana abans de la votació.
 
 7. La Mesa adoptarà les decisions per majoria de vots. De cada acte de la Mesa s'aixecarà l'acta corresponent que serà aprovada en el mateix moment.
 
-### Article 51. Proclamació de candidatures
+### Article 52. Proclamació de candidatures
 
 1. Dins els 5 dies naturals següents a la formació de la Mesa Electoral, aquesta examinarà les candidatures, les aprovarà o rebutjarà motivadament si no reuneixen els requisits establerts i en farà la seva proclamació.
 
@@ -675,7 +814,7 @@ Es poden presentar candidats fins 1 setmana abans de la votació.
 
 5. Les impugnacions les resoldrà la Mesa en un màxim de 5 dies que seran fermes.
 
-### Article 52. Campanya electoral.
+### Article 53. Campanya electoral.
 
 Comença 2n dijous de Setembre.
 
@@ -685,7 +824,7 @@ En cas de faltar-ne algú el secretari facilitarà als candidats el mail, telèf
 
 El COETTC facilitarà als candidats l'enviament de mails als col·legiats amb un màxim de 1 cada setmana, de totes maneres la Mesa Electoral decidirà sobres aquest i altre temes relacionats amb la campanya.
 
-### Article 53. Votació
+### Article 54. Votació
 
 Les votacions es faran Mixtes, telemàticament i presencialment.
 
@@ -703,19 +842,19 @@ Les votacions es faran Mixtes, telemàticament i presencialment.
 
 7. Un cop finalitzat el període de votació, es durà a terme l'escrutini per la Mesa Electoral i amb la presència dels represnetants dels candidats. L'acte serà públic pels col·legiats.
 
-### Article 54. Proclamació
+### Article 55. Proclamació
 
 1. La Mesa Electoral proclamarà els electes. En l'acta es recollirà el nombre de vots obtinguts per cadascun d'ells i els vots declarats nuls. Els resultats es publicaran en la pàgina web corporativa i taulell d'anuncis.
 
 2. Els resultats de l'escrutini poden ser impugnats dintre del termini dels 3 dies naturals següents a la data de publicació del resultat de les eleccions, davant de la Mesa Electoral, sense que aquesta impugnació suspengui la proclamació ni la presa de possessió de les persones elegides, llevat que la Mesa Electoral acordi el contrari per causes excepcionals mitjançant resolució expressa i motivada. La resolució de la Mesa Electoral, que també es publicarà en la pàgina web corporativa, posa fi a la via administrativa.
 
-### Article 55. Pressa de possessió
+### Article 56. Pressa de possessió
 
 Els càrrecs electes han de prendre possessió dels càrrecs davant del Consell de Govern la 3a setmana de Novembre.
 
 ## Títol VI. Finestreta única
 
-### Article 56. Finestreta única
+### Article 57. Finestreta única
 
 El Col·legi facilitarà mitjançant la finestreta única els tràmits i procediments relatius al lliure accés a les activitats de serveis i al seu exercici per tal que els col·legiats puguin realitzar per via electrònica i a distància tots els tràmits necessaris i conèixer l'estat de tramitació dels procediments en els quals es tingui la condició d'interessat. Així mateix, per mitjà de la finestreta única, es facilitarà la informació útil per a la millor defensa dels drets dels consumidors i usuaris.
 
@@ -733,7 +872,7 @@ e) Les dades de les associacions o organitzacions de consumidors i usuaris a les
 
 ## Títol VII. Règim econòmic
 
-### Article 57. Recursos ordinaris
+### Article 58. Recursos ordinaris
 
 Són recursos ordinaris del Col·legi:
 
@@ -749,7 +888,7 @@ e) Els ingressos procedents de publicacions, impresos, serveis, certificacions, 
 
 f) Qualsevol altre concepte que legalment escaigui.
 
-### Article 58. Recursos extraordinaris
+### Article 59. Recursos extraordinaris
 
 Són recursos econòmics extraordinaris del Col·legi:
 
@@ -763,17 +902,17 @@ d) Els productes d'alienació dels seus béns, per acord de l'Assemblea General.
 
 e) Les quantitats que per qualsevol altre concepte no especificat pugui percebre el Col·legi i que no siguin un recurs ordinari.
 
-### Article 59. Pressupost
+### Article 60. Pressupost
 
 1. El pressupost s'elaborarà amb caràcter anual. Inclourà la totalitat dels ingressos i despeses col·legials.
 
 2. Fins que no sigui aprovat el pressupost anual, s'aplicarà provisionalment el pressupost de l'exercici anterior.
 
-### Article 60. Dret d'informació econòmica
+### Article 61. Dret d'informació econòmica
 
 Els col·legiats podran obtenir còpia de les propostes dels comptes anuals, pressupost i liquidació de pressupost, així com demanar aclariments, des de la convocatòria de l'Assemblea en que es sotmetin a aprovació i fins a tres dies abans de la seva celebració.
 
-### Article 61. Taulell d'anuncis
+### Article 62. Taulell d'anuncis
 
 El COETTC posa a disposició dels membres un taulell d'anuncis telemàtic que faciliti el contacte entre col·legiats, resolució de dubtes, informació del funcionament del col·legi, etc...
 
@@ -789,7 +928,7 @@ Només hi hauran col·legiats.
 
 Si un 15% de col·legiats demana votar quelcom, en màxim 15 dies des de la validació per part del secretari.
 
-### Article 62. Responsabilitat i potestat disciplinària
+### Article 63. Responsabilitat i potestat disciplinària
 
 1. Els col·legiats i les societats professionals estan subjectes a la responsabilitat disciplinària derivada de l'incompliment dels deures professionals i col·legials establerts en les lleis, els present Estatuts, les normes reglamentaries que el desenvolupin i el Codi Deontològic, amb independència de l'eventual responsabilitat civil, penal o administrativa en què puguin incórrer.
 
@@ -801,7 +940,7 @@ Si un 15% de col·legiats demana votar quelcom, en màxim 15 dies des de la vali
 
 5. En la tramitació del procediment disciplinari s'han de garantir, almenys, els principis de presumpció d'innocència, d'audiència a la persona afectada, de motivació de la resolució final i de separació dels òrgans instructor i decisori.
 
-### Article 63. Procediment disciplinari
+### Article 64. Procediment disciplinari
 
 La imposició de qualsevol sanció disciplinaria exigeix la prèvia formació i tramitació del corresponent expedient sancionador, que s'ha d'ajustar a les regles següents:
 
@@ -833,7 +972,7 @@ m) La resolució de l'expedient per part del Consell de Govern posarà fi a la v
 
 n) En tot el que no regula aquest article s'han d'aplicar les Lleis 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques, i 40/2015, d'1 d'octubre, de règim jurídic del sector públic, o aquelles normes legals que les substitueixin amb contingut anàleg.
 
-### Article 64. Infraccions
+### Article 65. Infraccions
 
 1. Les infraccions es classifiquen en lleus, greus o molt greus.
 
@@ -885,7 +1024,7 @@ n) En tot el que no regula aquest article s'han d'aplicar les Lleis 39/2015, d'1
 
     g) La realització d'actuacions professionals ocasionant un perjudici als interessos dels consumidors i usuaris o a la professió d'Enginyer Tècnic de Telecomunicació.
 
-### Article 65. Sancions
+### Article 66. Sancions
 
 Les sancions que per les faltes assenyalades es poden imposar tant als col·legiats com a les societats professionals són les següents:
 
@@ -909,7 +1048,7 @@ b) Multa des de 5.001 euros i fins 50.000 euros i/o;
 
 c) Expulsió del Col·legi en els casos i termes establerts en l'article 48.4.*b* de la Llei 7/2006, de 31 de maig, de l'exercici de professions titulades i dels col·legis professionals.
 
-### Article 66. Graduació de les sancions
+### Article 67. Graduació de les sancions
 
 La imposició de sancions haurà de guardar la deguda adequació entre la gravetat del fet constitutiu de la
 
@@ -923,7 +1062,7 @@ c) L'entitat dels perjudicis causats.
 
 d) La reincidència per la comissió en el termini d'un any de més d'una infracció de la mateixa naturalesa quan així hagi estat declarat per resolució ferma.
 
-### Article 67. Extinció de la responsabilitat disciplinària
+### Article 68. Extinció de la responsabilitat disciplinària
 
 1. La responsabilitat disciplinària s'extingeix pel compliment de la sanció, la mort de l'infractor, la prescripció de la infracció o la prescripció de la sanció.
 
@@ -939,7 +1078,7 @@ d) La reincidència per la comissió en el termini d'un any de més d'una infrac
 
 ## Títol IX. Modificació d'Estatuts i reglaments corporatius
 
-### Article 68. Modificació dels Estatuts col·legials
+### Article 69. Modificació dels Estatuts col·legials
 
 La modificació dels Estatuts s'ha d'ajustar al procediment següent:
 
@@ -957,7 +1096,7 @@ f)  El text definitiu es convocarà Assemblea Extraordinària i es votarà.
 
 g)  Tota la informació i el debat es guardarà en el GitHub i en PDF.
 
-### Article 69. Reglaments corporatius
+### Article 70. Reglaments corporatius
 
 1. El procediment per a l'aprovació o modificació dels reglaments corporatius serà el mateix que el previst per a les modificacions estatutàries.
 
@@ -969,11 +1108,11 @@ públiques col·legials caldrà sotmetre'ls als tràmits legalment establerts.
 
 ## Títol X. Fusió i segregació
 
-### Article 70. Fusió del Col·legi amb altres col·legis d'Eng. Tèc. Telec. de diferent àmbit territorial
+### Article 71. Fusió del Col·legi amb altres col·legis d'Eng. Tèc. Telec. de diferent àmbit territorial
 
 L'acord de fusió del Col·legi amb un o més col·legis professionals d'Eng. Tèc. Telec. ha d'ésser adoptat per l'Assemblea General, convocada a l'efecte amb caràcter extraordinari, amb el vot favorable, com a mínim, de les tres quartes parts de tots els col·legiats, i ha de seguir els demés tràmits legalment establerts.
 
-### Article 71. Segregació del Col·legi
+### Article 72. Segregació del Col·legi
 
 La segregació ha de ser per vegueries.
 
@@ -989,7 +1128,7 @@ A la nova vegueria li correspondria la part proporcional del patrimoni.
 
 ## Títol XI. Dissolució i liquidació
 
-### Article 72. Causes de dissolució del Col·legi
+### Article 73. Causes de dissolució del Col·legi
 
 El Col·legi es pot dissoldre per les causes següents:
 
@@ -1003,7 +1142,7 @@ d)  La fusió mitjançant la constitució d'un nou col·legi professional o l'ab
 
 e)  L'escissió mitjançant divisió.
 
-### Article 73. Procediment de dissolució del Col·legi
+### Article 74. Procediment de dissolució del Col·legi
 
 1. L'acord de dissolució l'ha de prendre l'Assemblea General convocada a l'efecte amb caràcter extraordinari.
 
@@ -1017,7 +1156,7 @@ e)  L'escissió mitjançant divisió.
 
 ## Títol XII. Règim jurídic dels actes col·legials i la seva impugnació
 
-### Article 74. Règim jurídic dels actes col·legials
+### Article 75. Règim jurídic dels actes col·legials
 
 1. El Col·legi, en la seva condició de corporació de dret públic i en l'àmbit de les seves funcions públiques, actua de conformitat al dret administratiu i exerceix les potestats inherents a l'administració pública.
 
@@ -1025,7 +1164,7 @@ e)  L'escissió mitjançant divisió.
 
 3. En l'exercici de les seves funcions privades i en allò relatiu al patrimoni, el Col·legi queda sotmès al dret privat. També queden inclosos en aquest àmbit els aspectes relatius a la contractació i relacions amb el seu personal, que es regiran per la legislació laboral.
 
-### Article 75. Notificació dels actes
+### Article 76. Notificació dels actes
 
 1. Els acords, les resolucions i els actes adoptats pels òrgans del Col·legi, en exercici de les seves funcions públiques, s'han de notificar a qui tingui la consideració de persona interessada, en els termes previstos per la legislació de procediment administratiu aplicable.
 
@@ -1033,7 +1172,7 @@ e)  L'escissió mitjançant divisió.
 
 Entre tant no es disposi de la seu es faran per carta certificada en el domicili previst amb aquesta finalitat.
 
-### Article 76. Recursos contra actes i acords
+### Article 77. Recursos contra actes i acords
 
 1. Els actes i acords dictats pel Col·legi subjectes al dret administratiu posen fi a la via administrativa i poden ser objecte de recurs directe davant la jurisdicció contenciosa administrativa.
 
