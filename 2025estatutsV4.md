@@ -8,7 +8,6 @@ header-includes:
   # do not break words -> src https://tex.stackexchange.com/questions/7498/how-can-i-prevent-latex-from-breaking-words-and-wrapping-them-to-the-next-line
   - \usepackage[none]{hyphenat}
 ---
-
 <br>
 <br>
 <br>
@@ -47,15 +46,13 @@ header-includes:
 
 ---
 
-	(Nota: Aquests Estatuts es gestionen i la seva versió digital rastrejada oficial es troba allotjada al repositori de GitHub del COETTC, on es pot consultar l'historial de canvis: [https://github.com/COETTC/Estatuts](https://github.com/COETTC/Estatuts))
+	(Nota: Aquests Estatuts la gestació i la seva versió digital rastrejada oficial es troba allotjada al repositori de GitHub del COETTC, on es pot consultar l'historial de canvis: [https://github.com/COETTC/Estatuts](https://github.com/COETTC/Estatuts))
 
 ---
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
+
 - [ESTATUTS](#estatuts)
   - [Col·legi Oficial d'Enginyers Tècnics de Telecomunicació de Catalunya](#collegi-oficial-denginyers-tècnics-de-telecomunicació-de-catalunya)
   - [Títol I. El Col·legi](#títol-i-el-collegi)
