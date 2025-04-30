@@ -9,6 +9,19 @@ header-includes:
   - \usepackage[none]{hyphenat}
 ---
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # ESTATUTS
 <br>
 <br>
@@ -24,7 +37,7 @@ header-includes:
 <br>
 
 *Aprovats per l'Assemblea General Extraordinària el 27 d'Abril de 2025*
-*(Inclou modificacions fins a 27 d'Abril de 2025) - [Versió 3]*
+*(Inclou modificacions fins a 27 d'Abril de 2025) - [Versió4]*
 <br>
 <br>
 <br>
@@ -165,7 +178,7 @@ L'àmbit territorial del Col·legi és el de Catalunya.
 
 El Col·legi té el seu domicili a la Plaça d'en Ripoll, 9 baixos, 43003 Tarragona, sens perjudici de les possibles delegacions i altres dependències auxiliars que el Consell de Govern pogués establir.
 
-El COETTC es constitueix per segregació del *COITT, Colegio Oficial de Ingenieros Técnicos de Telecomunicación*, en votació celebrada el ??/04/2024 en la que van participar el 56% del Col·legiats residents a Catalunya i van votar favorablement a la seva constitució el 90% dels mateixos.
+El COETTC es constitueix per segregació del *COITT, Colegio Oficial de Ingenieros Técnicos de Telecomunicación*, en votació celebrada el 23/04/2024 en la que van participar el 56% del Col·legiats residents a Catalunya i van votar favorablement a la seva constitució el 90% dels mateixos.
 
 ### Article 5. Llengua
 
@@ -245,7 +258,7 @@ f)  Qualsevol altra activitat privada en interès dels col·legiats i la societa
 
 1. La col·legiació és obligatòria per a l'exercici de la professió d'Enginyer Tècnic de Telecomunicació, en els termes previstos legalment.
 
-2. La col·legiació en el COETTC habilita per exercir la professió de geòleg en tot el territori de l'estat espanyol, així com en el d'un altre estat membre de la Unió Europea, en els termes legalment previstos.
+2. La col·legiació en el COETTC habilita per exercir la professió de d'Enginyer Tècnic de Telecomunicació en tot el territori de l'estat espanyol, així com en el d'un altre estat membre de la Unió Europea, en els termes legalment previstos.
 
 3. Tenen dret a ser col·legiats els que estiguin en possessió del títol acadèmic de Graduat en telecomunicacions segons ordre CIN/352/2009, Enginyer Tècnic de Telecomunicació, Pèrit de Telecomunicació, Ajudant de Telecomunicació, Oficial Tècnic del Cos de Telègrafs, Ajudant de Telegrafia, Enginyer de 2a del Cos Telègrafs o d'un altre títol expedit dins l'àmbit de la Unió Europea que habiliti legalment per exercir la professió d'Enginyer Tècnic de Telecomunicació en els termes establerts en la normativa vigent al respecte, així com aquells que estiguin en possessió d'un títol estranger equivalent degudament homologat.
 
@@ -381,7 +394,7 @@ f)  Qualsevol altra activitat privada en interès dels col·legiats i la societa
 
 ### Article 17. Col·legiats d'honor
 
-1. El Col·legi podrà atorgar el títol de col·legiat d'honor a la persona, natural o jurídica, que hagi prestat serveis destacats al Col·legi, a la professió o hagi excel·lit en la contribució al coneixement, la docència, la divulgació o el reconeixement de la geologia.
+1. El Col·legi podrà atorgar el títol de col·legiat d'honor a la persona, natural o jurídica, que hagi prestat serveis destacats al Col·legi, a la professió o hagi excel·lit en la contribució al coneixement, la docència, la divulgació o el reconeixement de l'enginyeria de telecomunicació.
 
 2. L'acord l'adoptarà l'Assemblea General a proposta del Consell de Govern.
 
