@@ -35,8 +35,8 @@ header-includes:
 <br>
 <br>
 
-*Aprovats per l'Assemblea General Extraordinària el 27 d'Abril de 2025*
-*(Inclou modificacions fins a 27 d'Abril de 2025) - [Versió4]*
+*Aprovats per l'Assemblea General Extraordinària el 30 d'Abril de 2025*
+*(Inclou modificacions fins a 30 d'Abril de 2025) - [Versió4]*
 <br>
 <br>
 <br>
